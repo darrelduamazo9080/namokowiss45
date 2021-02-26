@@ -1,0 +1,4 @@
+baseURL = "https://walldecor-wangov31.vercel.app"
+languageCode = "en-us"
+title = "Wall Art Decor Modern"
+theme = "hugo-theme-minos"
